@@ -8,5 +8,5 @@
 
 ### **Other links**
 <!-- links -->
-[Linked in](https://www.linkedin.com/in/edwin-irungu-88757a153)
-[My Portfolio](https://platform-101-production.up.railway.app/)
+* [Linked in](https://www.linkedin.com/in/edwin-irungu-88757a153)
+* [My Portfolio](https://platform-101-production.up.railway.app/)
