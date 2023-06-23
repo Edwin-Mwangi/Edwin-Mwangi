@@ -8,5 +8,5 @@
 
 ### **Other links**
 <!-- links -->
-* [Linked in](https://www.linkedin.com/in/edwin-irungu-88757a153)
+* [Linked in](https://www.linkedin.com/in/edwin-irungu/)
 * [My Portfolio](https://edwin-mwangi.epizy.com/)
