@@ -5,6 +5,7 @@
 * I am currently doing webdesign.
 * I am looking to collaborate on making amazing projects especially in web.
 * You can email me at edwinmwangi138@gmail.com.
+* You can also send a text via whatsapp at :+254113621531
 
 ### **Other links**
 <!-- links -->
