@@ -1,4 +1,4 @@
-# Hi, It's Irungu Mwangi.
+# Hi, It's Edwin Mwangi.
 
 
 * I’m interested in coding, visual effects and gaming.
